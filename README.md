@@ -6,6 +6,8 @@ The MNIST Application provides a practical approach to learning machine learning
 
 The application employs the MNIST dataset and offers users four model options, including two distinct implementations of the K-nearest Neighbors algorithm and Randomforest.
 
+### [![Video Presentation]()](https://www.youtube.com/watch?v=61za2DCsTSU)
+
 ---------
 
 ### Sample Code
